@@ -1,6 +1,8 @@
 <h1 align="center">Hello world👋, I'm SENTHILNATHAN.N</h1>
 <h3 align="center">Tech Enthusiast: Coding the Future on GitHub</h3>
 
+I'm senthilnathan, a passionate software developer with a keen interest in Fullstack development. I enjoy building efficient and scalable solutions, learning new technologies, and contributing to open-source projects.
+
 - 🔭 I’m currently working on Project **"FarmBounty"**
 
 - 🌱 I’m currently learning **Back-end tools**
