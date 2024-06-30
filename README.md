@@ -1,7 +1,7 @@
 <h1 align="center">Hello world👋, I'm SENTHILNATHAN.N</h1>
-<h3 align="center">Tech Enthusiast: Coding the Future on GitHub"</h3>
+<h3 align="center">Tech Enthusiast: Coding the Future on GitHub</h3>
 
-- 🔭 I’m currently working on Project **FarmBounty**
+- 🔭 I’m currently working on Project **"FarmBounty"**
 
 - 🌱 I’m currently learning **Back-end tools**
 
