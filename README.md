@@ -3,11 +3,11 @@
 
 I'm senthilnathan, a passionate software developer with a keen interest in Fullstack development. I enjoy building efficient and scalable solutions, learning new technologies, and contributing to open-source projects.
 
-- 🔭 I’m currently working on Project **"FarmBounty"**
+- 🔭 I’m currently working on Project **"FarmBounty"**.
 
-- 🌱 I’m currently learning **Back-end tools**
+- 🌱 I’m currently learning **Back-end tools**.
 
-- 📫 How to reach me **gpmnathan@gmail.com**
+- 📫 How to reach me **gpmnathan@gmail.com**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
